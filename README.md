@@ -1,3 +1,7 @@
+# Intro
+
+本仓库是学习 https://www.bilibili.com/video/BV1sx4y1L7Rg/ 的代码仓库
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
